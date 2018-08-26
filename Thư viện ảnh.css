@@ -1,0 +1,59 @@
+.fonnent{
+    background-image: url("bg.jpg");
+}
+
+.a1 {
+    margin-top: 25px;
+}
+
+.a2 {
+    margin-right: 50px;
+}
+
+.clock {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.img1 {
+    transition: 0.5s;
+}
+.img1:hover{
+    transform: scale(1.2);
+}
+
+body{
+    text-align: center;
+    background: #00ECB9;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+h1{
+    color: #396;
+    font-weight: 100;
+    font-size: 40px;
+    margin: 40px 0px 20px;
+}
+
+#clockdiv{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 70px;
+}
+
+#clockdiv > div{
+    padding: 10px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 16px;
+}
