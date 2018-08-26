@@ -3,14 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f7e73a18-7d4b-4170-b7c6-bb4113a143fb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trang chủ hoàn chỉnh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trang chủ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trang chủ.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../menu/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../trách nhiệm xã hội/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trách nhiệm xã hội/00 Trách nhiệm xã hội hoàn chỉnh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../trách nhiệm xã hội/Trách nhiệm xã hội.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../trách nhiệm xã hội/hoàn chỉnh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project thu vien anh/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/1 project anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Project thu vien anh/1 project anh.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B13nw6prrb.jpg" beforeDir="false" />
@@ -322,6 +318,9 @@
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rywEoggeb.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rywjJ2GMHZ.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryzaDn2SBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trang chủ hoàn chỉnh.html" beforeDir="false" afterPath="$PROJECT_DIR$/00 Trang chủ hoàn chỉnh.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -336,7 +335,7 @@
     <session id="-1059490919">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.2" value="1" />
@@ -344,11 +343,11 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.57" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -384,10 +383,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Trang chủ hoàn chỉnh.html">
+        <entry file="file://$PROJECT_DIR$/00 Trang chủ hoàn chỉnh.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -439,7 +438,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -475,6 +474,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -486,13 +486,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trách nhiệm xã hội" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -538,14 +537,16 @@
       <workItem from="1535303640090" duration="616000" />
       <workItem from="1535304317453" duration="95000" />
       <workItem from="1535304776551" duration="18000" />
+      <workItem from="1535305783060" duration="409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30025000" />
+    <option name="totallyTimeSpent" value="30434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20669144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -609,10 +610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trang chủ hoàn chỉnh.html">
+    <entry file="file://$PROJECT_DIR$/00 Trang chủ hoàn chỉnh.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
